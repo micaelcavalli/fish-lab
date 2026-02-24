@@ -1,7 +1,4 @@
-# 🧠 fish-lab
-
-![Banner](docs/banner.jpg)
-
+## fish-lab
 Repositório pessoal criado para armazenar **protocolos**.
 
 ---
