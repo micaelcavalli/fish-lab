@@ -1,4 +1,4 @@
-## fish-lab
+## 🐟 fish-lab
 Repositório pessoal criado para armazenar **protocolos**.
 
 ---
