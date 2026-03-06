@@ -1,3 +1,9 @@
+## 📋 Índice
+- [Protocolos](#-protocolos)
+- [Scripts em R](#-scripts-em-r)
+- [Como usar](#-como-usar)
+- [Autor](#-autor)
+
 ## 🐟 fish-lab
 Repositório pessoal criado para armazenar **protocolos**.
 
