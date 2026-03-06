@@ -7,7 +7,7 @@ Repositório pessoal criado para armazenar **protocolos laboratoriais** e **scri
 ## 📁 Conteúdo
 
 - 📄 [`protocols-lab/`](./protocols-lab/) — Protocolos em PDF
-- 💻 [`scripts/`](./scripts/) — Scripts em R
+- 💻 [`scripts-lab/`](./scripts/) — Scripts em R
 
 ---
 
