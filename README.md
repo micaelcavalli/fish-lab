@@ -1,23 +1,14 @@
 ## 📋 Índice
-- [Protocolos](#-protocolos)
-- [Scripts em R](#-scripts-em-r)
-- [Como usar](#-como-usar)
-- [Autor](#-autor)
+- [Protocolos](#-protocols-lab)
+- [Scripts em R](#-scripts-lab)
 
 ## 🧬 Protocolos
-| Protocolo | Descrição |
-|-----------|-----------|
-| `extração-DNA-peixe.md` | Extração de DNA de tecido muscular por CTAB |
-| `pcr-padrao.md` | PCR padrão para marcadores mitocondriais |
-
-## 🧪 Protocolos
-
 Os protocolos estão na pasta [`protocols-lab/`](./protocols-lab/) em formato PDF.
 
 | Protocolo | Descrição |
 |-----------|-----------|
-| [Extração de DNA](./protocols-lab/extracao-dna.pdf) | Extração por CTAB de tecido muscular |
-| [PCR Padrão](./protocols-lab/pcr-padrao.pdf) | Amplificação de marcadores mitocondriais |
+| [Extração de DNA CELLCO](./protocols-lab/Protocolo-de-Extração-de-DNA-CELLCO_v1.pdf) | Extração de DNA de tecido muscular |
+| [PCR Padrão](./protocols-lab/Protocolo-de-PCR-CELLCO_v1.pdf) | Reação em Cadeia da Polimerase (PCR) |
 
 ## 🐟 fish-lab
 Repositório pessoal criado para armazenar **protocolos**.
