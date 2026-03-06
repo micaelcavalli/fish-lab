@@ -1,9 +1,18 @@
 ## 🐟 fish-lab
-Repositório pessoal criado para armazenar **protocolos**.
+
+Repositório pessoal criado para armazenar **protocolos laboratoriais** e **scripts em R** utilizados no LTBM.
+
+---
+
+## 📁 Conteúdo
+
+- 📄 [`protocols-lab/`](./protocols-lab/) — Protocolos em PDF
+- 💻 [`scripts/`](./scripts/) — Scripts em R
 
 ---
 
 ## 👨‍🔬 Autor
+
 **Micael Cavalli**
 - Mestre em Zoologia – UFAM
 - Biólogo - UEA
@@ -12,5 +21,6 @@ Repositório pessoal criado para armazenar **protocolos**.
 ---
 
 ## 🪶 Licença
-Este repositório é de uso pessoal e acadêmico.
-Se desejar reutilizar algum script, cite o autor.
+
+Este repositório é de uso pessoal e acadêmico.  
+Se desejar reutilizar algum script ou protocolo, cite o autor.
