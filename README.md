@@ -4,6 +4,12 @@
 - [Como usar](#-como-usar)
 - [Autor](#-autor)
 
+## 🧬 Protocolos
+| Protocolo | Descrição |
+|-----------|-----------|
+| `extração-DNA-peixe.md` | Extração de DNA de tecido muscular por CTAB |
+| `pcr-padrao.md` | PCR padrão para marcadores mitocondriais |
+
 ## 🐟 fish-lab
 Repositório pessoal criado para armazenar **protocolos**.
 
