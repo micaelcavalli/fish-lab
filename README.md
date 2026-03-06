@@ -1,6 +1,6 @@
 ## 🐟 fish-lab
 
-Repositório pessoal criado para armazenar **protocolos laboratoriais** e **scripts em R** utilizados no LTBM.
+Repositório pessoal criado para armazenar **protocolos laboratoriais** e **scripts em R**.
 
 ---
 
