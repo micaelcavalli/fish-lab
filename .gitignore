@@ -1,0 +1,5 @@
+# Arquivos locais ignorados para não serem enviados ao GitHub
+gemini.md
+Rplots.pdf
+.Rhistory
+.RData

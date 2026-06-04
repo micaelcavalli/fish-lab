@@ -83,7 +83,7 @@ grafico <- ggplot(dados_peixes, aes(x = Comprimento_cm, y = Peso_g)) +
   )
 
 # Salvar o gráfico como imagem (PNG)
-# ggsave("relacao_peso_comprimento.png", plot = grafico, width = 8, height = 6, dpi = 300)
+ggsave("scripts-lab/relacao_peso_comprimento.png", plot = grafico, width = 8, height = 6, dpi = 300)
 
 # Exibir o gráfico no RStudio/R console
 print(grafico)
