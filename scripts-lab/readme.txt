@@ -1,5 +1,5 @@
 ================================================================================
-💻 Pasta de Scripts em R - fish-lab
+💻 Pasta de Scripts em R e Python - fish-lab
 ================================================================================
 
 Esta pasta contém scripts em R estruturados e documentados para análise de
@@ -12,29 +12,6 @@ Para rodar todos os scripts desta pasta, você precisará dos seguintes pacotes.
 Abra o R ou RStudio e execute o seguinte comando no console para instalá-los:
 
 install.packages(c("ggplot2", "ape", "pegas", "vegan"))
-
---------------------------------------------------------------------------------
-📋 Scripts Disponíveis
---------------------------------------------------------------------------------
-
-1. relacao_peso_comprimento.R
-   - Ajusta o modelo de crescimento alométrico W = a * L^b.
-   - Gera gráficos biométricos elegantes usando o ggplot2.
-
-2. calculo_diversidade_genetica.R
-   - Processa sequências de DNA em formato FASTA.
-   - Calcula diversidade nucleotídica (pi), sítios segregantes e haplótipos.
-   - Constrói e plota redes de haplótipos (TCS-like).
-
-3. amova_fst_populacional.R
-   - Realiza a Análise de Variância Molecular (AMOVA) usando o pegas.
-   - Estima a diferenciação genética populacional par a par (Fst / Phi_ST).
-   - Testa a significância estatística de diferenciação através de permutações.
-
-4. analise_comunidades_nmds.R
-   - Executa ordenação por Escalonamento Multidimensional Não-Métrico (NMDS).
-   - Calcula a distância de Bray-Curtis para matrizes de abundância/presença.
-   - Plota ordenações com elipses de confiança e curvas de acumulação de espécies.
 
 --------------------------------------------------------------------------------
 💡 Dicas de Uso
