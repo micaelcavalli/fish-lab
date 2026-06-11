@@ -3,3 +3,16 @@ gemini.md
 Rplots.pdf
 .Rhistory
 .RData
+
+# Arquivos de sistema e editores
+.DS_Store
+*~
+*.swp
+*.tmp
+
+# Pastas de IDE e IA
+.antigravity/
+.gemini/
+.idea/
+.vscode/
+node_modules/
